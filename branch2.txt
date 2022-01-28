@@ -1,0 +1,3 @@
+branch2.txt is getting modified, will be stashed
+branch2.txt is getting merged to master
+branch2.txt is getting merged to master
